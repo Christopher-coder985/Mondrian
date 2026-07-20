@@ -18,19 +18,19 @@
 .patato1{
     grid-column-start:1;
     grid-column-end:3;
-    background-color:lightgreen;
+    background-color:red;
 }
 .potato2{
     background-color:lightseagreen;
 }
 .potato3{
-    background-color:green;
+    background-color:rgb(197, 38, 38);
 }
 .potato4{
     background-color:blue;
 }
 .potato5{
-    background-color:yellow;
+    background-color:rgb(216, 54, 25);
 }
 .potato6{
     background-color:lightblue;
@@ -46,14 +46,14 @@
     background-color:darkblue;
 }
 .potato9{
-    background-color:greenyellow;
+    background-color:crimson;
 }
 .potato10{
     background-color:darkcyan;
 }
 .potato11{
-    background-color:lightgray;
+    background-color:mediumvioletred;
 }
 .potato12{
-    background-color:lime;
+    background-color:darkred;
 }
