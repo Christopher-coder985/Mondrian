@@ -18,10 +18,42 @@
 .patato1{
     grid-column-start:1;
     grid-column-end:3;
+    background-color:lightgreen;
+}
+.potato2{
+    background-color:lightseagreen;
+}
+.potato3{
+    background-color:green;
+}
+.potato4{
+    background-color:blue;
+}
+.potato5{
+    background-color:yellow;
 }
 .potato6{
+    background-color:lightblue;
     grid-row-start:2;
     grid-row-start:4;
     grid-column-start:3;
     grid-column-end:4;
+}
+.potato7{
+    background-color:cyan;
+}
+.potato8{
+    background-color:darkblue;
+}
+.potato9{
+    background-color:greenyellow;
+}
+.potato10{
+    background-color:darkcyan;
+}
+.potato11{
+    background-color:lightgray;
+}
+.potato12{
+    background-color:lime;
 }
